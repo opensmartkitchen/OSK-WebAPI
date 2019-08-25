@@ -1,4 +1,4 @@
-<h1>OpenSmartKitchen OSK-WebAPI</h1>
+<h1>OSK-WebAPI</h1>
 
 <p align="center">
     <a href="LICENSE">
@@ -9,4 +9,4 @@
     </a>
 </p>
 
-
+_OSK-WebAPI is part of the development software for the [Hackaday ÓSK Squirrel](https://hackaday.io/project/165563-sk-squirrel) project._
